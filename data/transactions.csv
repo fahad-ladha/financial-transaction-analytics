@@ -1,0 +1,87 @@
+Date,Category,Description,Amount,Type
+2026-01-03,Food,Lunch,35,Expense
+2026-01-04,Transport,Taxi,25,Expense
+2026-01-05,Salary,Monthly Salary,8500,Income
+2026-01-07,Food,Dinner,80,Expense
+2026-01-10,Shopping,Clothes,300,Expense
+2026-01-12,Transport,Fuel,180,Expense
+2026-01-15,Utilities,Electricity Bill,320,Expense
+2026-01-18,Food,Groceries,260,Expense
+2026-01-20,Entertainment,Movie,75,Expense
+2026-01-22,Subscriptions,Streaming Subscription,55,Expense
+2026-01-25,Rent,Monthly Rent,2200,Expense
+2026-01-27,Food,Dinner,65,Expense
+2026-01-29,Transport,Taxi,35,Expense
+2026-02-02,Salary,Monthly Salary,8500,Income
+2026-02-03,Food,Lunch,45,Expense
+2026-02-05,Transport,Fuel,190,Expense
+2026-02-07,Utilities,Internet Bill,280,Expense
+2026-02-09,Shopping,Shoes,420,Expense
+2026-02-11,Food,Groceries,310,Expense
+2026-02-14,Entertainment,Dinner Out,180,Expense
+2026-02-16,Subscriptions,Software Subscription,90,Expense
+2026-02-18,Transport,Taxi,40,Expense
+2026-02-20,Rent,Monthly Rent,2200,Expense
+2026-02-22,Food,Dinner,95,Expense
+2026-02-25,Shopping,Electronics,650,Expense
+2026-02-27,Freelance,Freelance Payment,1200,Income
+2026-03-01,Salary,Monthly Salary,8500,Income
+2026-03-03,Food,Lunch,40,Expense
+2026-03-05,Transport,Fuel,200,Expense
+2026-03-07,Utilities,Electricity Bill,350,Expense
+2026-03-09,Food,Groceries,280,Expense
+2026-03-12,Shopping,Clothes,250,Expense
+2026-03-14,Entertainment,Concert,350,Expense
+2026-03-16,Subscriptions,Streaming Subscription,55,Expense
+2026-03-18,Transport,Taxi,30,Expense
+2026-03-20,Rent,Monthly Rent,2200,Expense
+2026-03-22,Food,Dinner,110,Expense
+2026-03-25,Travel,Flight Booking,900,Expense
+2026-03-28,Food,Lunch,50,Expense
+2026-04-01,Salary,Monthly Salary,8500,Income
+2026-04-03,Food,Lunch,35,Expense
+2026-04-05,Transport,Fuel,210,Expense
+2026-04-07,Utilities,Internet Bill,280,Expense
+2026-04-09,Food,Groceries,340,Expense
+2026-04-11,Shopping,Clothes,180,Expense
+2026-04-13,Entertainment,Cinema,90,Expense
+2026-04-15,Subscriptions,Software Subscription,90,Expense
+2026-04-17,Transport,Taxi,45,Expense
+2026-04-20,Rent,Monthly Rent,2200,Expense
+2026-04-22,Food,Dinner,85,Expense
+2026-04-24,Healthcare,Pharmacy,120,Expense
+2026-04-27,Shopping,Electronics,500,Expense
+2026-04-29,Freelance,Freelance Payment,900,Income
+2026-05-01,Salary,Monthly Salary,8500,Income
+2026-05-03,Food,Lunch,50,Expense
+2026-05-05,Transport,Fuel,220,Expense
+2026-05-07,Utilities,Electricity Bill,330,Expense
+2026-05-09,Food,Groceries,290,Expense
+2026-05-11,Shopping,Clothes,275,Expense
+2026-05-13,Entertainment,Dinner Out,210,Expense
+2026-05-15,Subscriptions,Streaming Subscription,55,Expense
+2026-05-17,Transport,Taxi,35,Expense
+2026-05-20,Rent,Monthly Rent,2200,Expense
+2026-05-22,Food,Dinner,100,Expense
+2026-05-24,Travel,Hotel Booking,750,Expense
+2026-05-27,Food,Lunch,45,Expense
+2026-06-01,Salary,Monthly Salary,8500,Income
+2026-06-03,Food,Lunch,40,Expense
+2026-06-05,Transport,Fuel,205,Expense
+2026-06-07,Utilities,Internet Bill,280,Expense
+2026-06-09,Food,Groceries,320,Expense
+2026-06-11,Shopping,Clothes,350,Expense
+2026-06-13,Entertainment,Cinema,85,Expense
+2026-06-15,Subscriptions,Software Subscription,90,Expense
+2026-06-17,Transport,Taxi,50,Expense
+2026-06-20,Rent,Monthly Rent,2200,Expense
+2026-06-22,Food,Dinner,120,Expense
+2026-06-25,Healthcare,Pharmacy,150,Expense
+2026-06-27,Shopping,Electronics,800,Expense
+
+
+
+
+
+
+
